@@ -3,7 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 .vscode
-/top_250_movies.csv
 # C extensions
 *.so
 
